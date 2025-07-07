@@ -1,3 +1,3 @@
 # Test repo.
 
-Experimenting with pulsar as a teaching aid.
+Experimenting with the pulsar text editor as a teaching aid.
